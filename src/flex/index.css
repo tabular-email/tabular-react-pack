@@ -1,0 +1,35 @@
+.Flex-flex {
+  display: flex;
+}
+
+.Flex-inlineFlex {
+  display: inline-flex;
+}
+
+.Flex-justifyContent--flexStart {
+  justify-content: flex-start;
+}
+
+.Flex-justifyContent--flexEnd {
+  justify-content: flex-end;
+}
+
+.Flex-justifyContent--spaceBetween {
+  justify-content: space-between;
+}
+
+.Flex-justifyContent--spaceAround {
+  justify-content: space-around;
+}
+
+.Flex-alignItems--flexStart {
+  align-items: flex-start;
+}
+
+.Flex-alignItems--center {
+  align-items: center;
+}
+
+.Flex-alignItems--flexEnd {
+  align-items: flex-end;
+}

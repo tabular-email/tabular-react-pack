@@ -1,0 +1,50 @@
+.Padding-all--20 {
+  padding: 20px;
+}
+
+.Padding-all--36 {
+  padding: 36px;
+}
+
+.Padding-left--8 {
+  padding-left: 8px;
+}
+
+.Padding-left--20 {
+  padding-left: 20px;
+}
+
+.Padding-right--8 {
+  padding-right: 8px;
+}
+
+.Padding-top--20 {
+  padding-top: 20px;
+}
+
+.Padding-right--20 {
+  padding-right: 20px;
+}
+
+.Padding-bottom--8 {
+  padding-bottom: 8px;
+}
+
+.Padding-bottom--20 {
+  padding-bottom: 20px;
+}
+
+.Padding-horizontal--4 {
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+.Padding-horizontal--20 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.Padding-vertical--16 {
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
