@@ -10,22 +10,6 @@
 npm install --save tabular-react-pack
 ```
 
-## Usage
-
-```jsx
-import React, { Component } from 'react'
-
-import MyComponent from 'tabular-react-pack'
-
-class Example extends Component {
-  render () {
-    return (
-      <MyComponent />
-    )
-  }
-}
-```
-
 ## License
 
 ISC © [tabular-email](https://github.com/tabular-email)
