@@ -34,6 +34,9 @@ export default {
       plugins: ['external-helpers'],
     }),
     resolve(),
-    commonjs(),
+    commonjs({
+      include: /node_modules/,
+    }),
   ],
+  external: ['react', 'react-dom', 'prop-types', 'styled-components'],
 };
