@@ -1,0 +1,472 @@
+.Text-color--dark {
+  color: #1a1f36;
+}
+
+.Text-color--default {
+  color: #3c4257;
+}
+
+.Text-color--disabled {
+  color: #a3acb9;
+}
+
+.Text-color--inherit {
+  color: inherit;
+}
+
+.Text-color--invalid {
+  color: #cd3d64;
+}
+
+.Text-color--selected {
+  color: #556cd6;
+}
+
+.Text-color--white {
+  color: #fff;
+}
+
+.Text-color--gray {
+  color: #697386;
+}
+
+.Text-color--gray900 {
+  color: #1a1f36;
+}
+
+.Text-color--gray800 {
+  color: #2a2f45;
+}
+
+.Text-color--gray700 {
+  color: #3c4257;
+}
+
+.Text-color--gray600 {
+  color: #4f566b;
+}
+
+.Text-color--gray500 {
+  color: #697386;
+}
+
+.Text-color--gray400 {
+  color: #8792a2;
+}
+
+.Text-color--gray300 {
+  color: #a3acb9;
+}
+
+.Text-color--gray200 {
+  color: #c1c9d2;
+}
+
+.Text-color--gray100 {
+  color: #e3e8ee;
+}
+
+.Text-color--gray50 {
+  color: #f7fafc;
+}
+
+.Text-color--blue {
+  color: #556cd6;
+}
+
+.Text-color--blue900 {
+  color: #131f41;
+}
+
+.Text-color--blue800 {
+  color: #212d63;
+}
+
+.Text-color--blue700 {
+  color: #2f3d89;
+}
+
+.Text-color--blue600 {
+  color: #3d4eac;
+}
+
+.Text-color--blue500 {
+  color: #556cd6;
+}
+
+.Text-color--blue400 {
+  color: #6c8eef;
+}
+
+.Text-color--blue300 {
+  color: #7dabf8;
+}
+
+.Text-color--blue200 {
+  color: #a4cdfe;
+}
+
+.Text-color--blue100 {
+  color: #d6ecff;
+}
+
+.Text-color--blue50 {
+  color: #f5fbff;
+}
+
+.Text-color--cyan {
+  color: #067ab8;
+}
+
+.Text-color--cyan900 {
+  color: #042235;
+}
+
+.Text-color--cyan800 {
+  color: #093353;
+}
+
+.Text-color--cyan700 {
+  color: #06457a;
+}
+
+.Text-color--cyan600 {
+  color: #075996;
+}
+
+.Text-color--cyan500 {
+  color: #067ab8;
+}
+
+.Text-color--cyan400 {
+  color: #3a97d4;
+}
+
+.Text-color--cyan300 {
+  color: #4db7e8;
+}
+
+.Text-color--cyan200 {
+  color: #7fd3ed;
+}
+
+.Text-color--cyan100 {
+  color: #c4f1f9;
+}
+
+.Text-color--cyan50 {
+  color: #edfdfd;
+}
+
+.Text-color--green {
+  color: #09825d;
+}
+
+.Text-color--green900 {
+  color: #082429;
+}
+
+.Text-color--green800 {
+  color: #0b3733;
+}
+
+.Text-color--green700 {
+  color: #0d4b3b;
+}
+
+.Text-color--green600 {
+  color: #0e6245;
+}
+
+.Text-color--green500 {
+  color: #09825d;
+}
+
+.Text-color--green400 {
+  color: #1ea672;
+}
+
+.Text-color--green300 {
+  color: #33c27f;
+}
+
+.Text-color--green200 {
+  color: #85d996;
+}
+
+.Text-color--green100 {
+  color: #cbf4c9;
+}
+
+.Text-color--green50 {
+  color: #efffed;
+}
+
+.Text-color--red {
+  color: #cd3d64;
+}
+
+.Text-color--red900 {
+  color: #420828;
+}
+
+.Text-color--red800 {
+  color: #5e1039;
+}
+
+.Text-color--red700 {
+  color: #80143f;
+}
+
+.Text-color--red600 {
+  color: #a41c4e;
+}
+
+.Text-color--red500 {
+  color: #cd3d64;
+}
+
+.Text-color--red400 {
+  color: #ed5f74;
+}
+
+.Text-color--red300 {
+  color: #fa8389;
+}
+
+.Text-color--red200 {
+  color: #fbb5b2;
+}
+
+.Text-color--red100 {
+  color: #fde2dd;
+}
+
+.Text-color--red50 {
+  color: #fff8f5;
+}
+
+.Text-color--yellow {
+  color: #bb5504;
+}
+
+.Text-color--yellow900 {
+  color: #3a1607;
+}
+
+.Text-color--yellow800 {
+  color: #571f0d;
+}
+
+.Text-color--yellow700 {
+  color: #762b0b;
+}
+
+.Text-color--yellow600 {
+  color: #983705;
+}
+
+.Text-color--yellow500 {
+  color: #bb5504;
+}
+
+.Text-color--yellow400 {
+  color: #d97917;
+}
+
+.Text-color--yellow300 {
+  color: #e5993e;
+}
+
+.Text-color--yellow200 {
+  color: #efc078;
+}
+
+.Text-color--yellow100 {
+  color: #f8e5b9;
+}
+
+.Text-color--yellow50 {
+  color: #fcf9e9;
+}
+
+.Text-color--orange {
+  color: #c44c34;
+}
+
+.Text-color--orange900 {
+  color: #420e11;
+}
+
+.Text-color--orange800 {
+  color: #5d161b;
+}
+
+.Text-color--orange700 {
+  color: #7e1e23;
+}
+
+.Text-color--orange600 {
+  color: #9e2f28;
+}
+
+.Text-color--orange500 {
+  color: #c44c34;
+}
+
+.Text-color--orange400 {
+  color: #e56f4a;
+}
+
+.Text-color--orange300 {
+  color: #f5925e;
+}
+
+.Text-color--orange200 {
+  color: #f8b886;
+}
+
+.Text-color--orange100 {
+  color: #fee3c0;
+}
+
+.Text-color--orange50 {
+  color: #fffaee;
+}
+
+.Text-color--purple {
+  color: #a450b5;
+}
+
+.Text-color--purple900 {
+  color: #2d0f55;
+}
+
+.Text-color--purple800 {
+  color: #401d6a;
+}
+
+.Text-color--purple700 {
+  color: #5b2b80;
+}
+
+.Text-color--purple600 {
+  color: #7b3997;
+}
+
+.Text-color--purple500 {
+  color: #a450b5;
+}
+
+.Text-color--purple400 {
+  color: #c96ed0;
+}
+
+.Text-color--purple300 {
+  color: #e28ddc;
+}
+
+.Text-color--purple200 {
+  color: #f0b4e4;
+}
+
+.Text-color--purple100 {
+  color: #fce0f6;
+}
+
+.Text-color--purple50 {
+  color: #fff8fe;
+}
+
+.Text-color--violet {
+  color: #8260c3;
+}
+
+.Text-color--violet900 {
+  color: #1f184e;
+}
+
+.Text-color--violet800 {
+  color: #352465;
+}
+
+.Text-color--violet700 {
+  color: #4b3480;
+}
+
+.Text-color--violet600 {
+  color: #61469b;
+}
+
+.Text-color--violet500 {
+  color: #8260c3;
+}
+
+.Text-color--violet400 {
+  color: #9c82db;
+}
+
+.Text-color--violet300 {
+  color: #b0a1e1;
+}
+
+.Text-color--violet200 {
+  color: #c7c2ea;
+}
+
+.Text-color--violet100 {
+  color: #e6e6fc;
+}
+
+.Text-color--violet50 {
+  color: #f8f9fe;
+}
+
+.Text-fontSize--12 {
+  font-size: 12px;
+}
+
+.Text-fontSize--14 {
+  font-size: 14px;
+}
+
+.Text-fontSize--16 {
+  font-size: 16px;
+}
+
+.Text-lineHeight--20 {
+  line-height: 20px;
+}
+
+.Text-lineHeight--22 {
+  line-height: 22px;
+}
+
+.Text-lineHeight--24 {
+  line-height: 24px;
+}
+
+.Text-fontWeight--regular {
+  font-weight: 400;
+}
+
+.Text-fontWeight--medium {
+  font-weight: 500;
+}
+
+.Text-fontWeight--bold {
+  font-weight: 700;
+}
+
+.Text-typeface--base {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue",
+  "Ubuntu", sans-serif;
+}
+
+.Text-wrap--wrap {
+  white-space: normal;
+}
+
+.Text-wrap--noWrap {
+  white-space: nowrap;
+}
