@@ -18,6 +18,14 @@ if (
 
 export { default as Box } from './box';
 
+export { default as Button } from './button';
+
+export { default as Card } from './card';
+
 export { default as Flex } from './flex';
 
+export { default as Icon } from './icon';
+
 export { default as Padding } from './padding';
+
+export { default as Text } from './text';

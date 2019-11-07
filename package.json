@@ -1,6 +1,6 @@
 {
   "name": "tabular-react-pack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "author": "tabular-email",
   "license": "ISC",
@@ -63,6 +63,8 @@
   ],
   "dependencies": {
     "classnames": "^2.2.6",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.15",
+    "react-router-dom": "^5.1.2",
+    "remixicon": "^2.1.0"
   }
 }

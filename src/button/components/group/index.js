@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import cx from 'classnames';
-import { Box } from '../../../index';
+import Box from '../../../box';
 
 const propTypes = {
   className: PropTypes.string,

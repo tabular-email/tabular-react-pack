@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import cx from 'classnames';
-import { convertPropsToClassName } from '../../helpers';
+import convertPropsToClassName from '../helpers';
 import './index.css';
 
 const propTypes = {
@@ -26,15 +26,17 @@ const defaultProps = {
 };
 
 function Text(props) {
-  const { className, children, ...rest } = props;
-  const _className = cx(
+  const {
+    className, children, ...rest
+  } = props;
+  const classname = cx(
     className,
     'Text',
     convertPropsToClassName(rest, 'Text'),
   );
 
   return (
-    <span className={_className}>
+    <span className={classname}>
       {children}
     </span>
   );
