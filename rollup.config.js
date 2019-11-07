@@ -24,9 +24,7 @@ export default {
   ],
   plugins: [
     external(),
-    postcss({
-      modules: true,
-    }),
+    postcss(),
     url(),
     svgr(),
     babel({
@@ -34,9 +32,6 @@ export default {
       plugins: ['external-helpers'],
     }),
     resolve(),
-    commonjs({
-      include: /node_modules/,
-    }),
+    commonjs(),
   ],
-  external: ['react', 'react-dom', 'prop-types', 'styled-components'],
 };

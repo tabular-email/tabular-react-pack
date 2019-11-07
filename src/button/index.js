@@ -2,7 +2,9 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import cx from 'classnames';
 import { Link, withRouter } from 'react-router-dom';
-import { Box, Icon, Text } from '../index';
+import Box from '../box';
+import Icon from '../icon';
+import Text from '../text';
 import Group from './components/group';
 
 const propTypes = {
